@@ -1,0 +1,4 @@
+Kiduino
+=======
+
+Arduino for kids
