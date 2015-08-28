@@ -1,5 +1,6 @@
 Kiduino
 =======
+[![License](http://img.shields.io/:license-gpl-blue.svg?style=flat)](http://opensource.org/licenses/GPL-2.0)
 
 ###Arduino for kids
 ---
